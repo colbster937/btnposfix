@@ -1,0 +1,10 @@
+**/.DS_Store
+/.gradle
+/.idea
+/.vscode
+/gradle
+/run
+/gradlew
+/gradlew.bat
+**/bin
+**/build

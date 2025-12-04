@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "$mod_id",
+  "name": "$mod_name",
+  "version": "$mod_version",
+  "description": "$mod_description",
+  "icon": "assets/$mod_id/icon.png",
+  "environment": "$mod_side",
+  "entrypoints": {
+    "main": [
+      "$mod_main"
+    ]
+  },
+  "mixins": [
+    "mixins.json"
+  ],
+  "depends": {
+    "minecraft": "$mc_depend",
+    "fabricloader": ">=$loader_version"
+  },
+  "license": "$mod_license",
+  "authors": [$mod_authors],
+  "contributors": [$mod_contributors],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/$mod_id",
+    "sources": "$mod_github",
+    "issues": "$mod_github/issues",
+    "discord": "$contact_discord",
+    "email": "$contact_discord"
+  }
+}
