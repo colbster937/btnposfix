@@ -21,7 +21,7 @@
 <br>
 ever get annoyed about the options and quit buttons being spaced inconsistently from the rest of the buttons? no? well i did so this mod exists now lol
 <br><br>
-all it does is just move 3 buttons up 12 pixels with a single mixin, so it basically supports every version up to 1.16.5
+all it does is just move 3 buttons up 12 pixels with a single mixin, so it basically supports every version up to 1.12.2
 <br><br>
 
 ![preview](https://raw.githubusercontent.com/colbster937/btnposfix/refs/heads/main/img/screenshot.png)

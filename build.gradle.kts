@@ -16,7 +16,7 @@ val MOD_CONTRIBUTORS = emptyList<String>()
 
 val MC_VERSION = "b1.7.3"
 val MIN_MC_VERSION = ""
-val MAX_MC_VERSION = "1.16.5"
+val MAX_MC_VERSION = "1.12.2"
 val LOADER_VERSION = "0.18.1"
 val OSL_VERSION = "0.16.3"
 
